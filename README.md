@@ -250,3 +250,6 @@ EmuLua scripts for recording retro game sound to MIDI file or FlMML
 - [smf-dsp](https://github.com/jpcima/smf-dsp) - Advanced MIDI file player
 - [ymfm](https://github.com/aaronsgiles/ymfm) - BSD-licensed Yamaha FM sound cores (OPM, OPN, OPL, and others).
 - [RetroWave](https://github.com/SudoMaker/RetroWave) - Authentic sounds from vintage sound chips
+
+## License
+CC0-1.0 license
